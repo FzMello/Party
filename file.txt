@@ -1,0 +1,4 @@
+
+Nome: Elena, Ingredienti: [Arachidi, Crostacei, Farina], Cucina preferita: francese, Dieta: vegetariana
+Nome: Marco, Ingredienti: [Arachidi, Crostacei, Pomodori], Cucina preferita: francese, Dieta: entrambe
+Nome: Elena, Ingredienti: [Arachidi, Pomodori, Verza], Cucina preferita: inglese, Dieta: vegetariana

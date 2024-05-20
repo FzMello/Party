@@ -1,0 +1,19 @@
+I;Arachidi
+I;Crostacei
+I;Pomodori
+R;Torta di mele
+I;Farina
+R;Pizzoccheri
+I;Verza
+R;Parmigiana
+I;Melanzane
+R;Caponata
+I;Peperoni
+R;Arrosto
+R;Insalata di mare
+I;Latte
+I;Uova
+R;Frittata
+I;Aglio
+I;Cipolle
+I;Soia
